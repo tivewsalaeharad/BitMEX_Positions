@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitMEX_Positions", "BitMEX_Positions\BitMEX_Positions.csproj", "{6EE5E4AD-7FE0-4DF0-992B-1754928D2105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE5E4AD-7FE0-4DF0-992B-1754928D2105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE5E4AD-7FE0-4DF0-992B-1754928D2105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE5E4AD-7FE0-4DF0-992B-1754928D2105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE5E4AD-7FE0-4DF0-992B-1754928D2105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {417B1166-C45E-409D-9E05-8E2C8CCE6830}
+	EndGlobalSection
+EndGlobal
